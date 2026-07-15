@@ -12,7 +12,7 @@
 
 </div>
 
-## Demo 亮点
+## 功能
 
 CareerReach AI 展示的是一个「求职沟通 Agent」的产品化封装。它基于第三方开源项目 [`boss-agent-cli`](https://github.com/can4hou6joeng4/boss-agent-cli) 的本地工具能力，在 Codex 中设计了一个更适合自然语言协作的 Agent 工作流：用户只需要说出目标岗位或沟通意图，Agent 会整理岗位事实、检索个人经历证据、生成沟通策略，并在风险不充分时给出 `manual_review`，而不是直接自动触达。
 
