@@ -1,0 +1,77 @@
+{
+  "name": "sample_ai_pm",
+  "title": "Sample Candidate - AI Product Manager",
+  "center_title": false,
+  "personal_info": {
+    "items": [],
+    "layout": "inline"
+  },
+  "job_intention": {
+    "title": "Job Intention",
+    "icon": "mdi:target",
+    "show_background": true,
+    "items": [
+      {
+        "label": "Target Role",
+        "value": "AI Product Manager"
+      },
+      {
+        "label": "Focus",
+        "value": "AI workflow / Agent product / RAG / B2B SaaS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "id": "work_experience",
+      "title": "Work Experience",
+      "icon": "",
+      "rows": [
+        {
+          "type": "richtext",
+          "content": [
+            "AI solution product experience: participated in an enterprise AI customer-service project, covering scenario definition, competitor research, solution design, and workflow planning.",
+            "Business impact: reduced manual handling time through information reuse, field extraction, missing-field follow-up, user confirmation, and human-review handoff."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project_experience",
+      "title": "Project Experience",
+      "icon": "",
+      "rows": [
+        {
+          "type": "richtext",
+          "content": [
+            "Dify workflow: built a multi-node market research report workflow covering Excel parsing, evidence normalization, analysis matrix, insight generation, QA, and PPT rendering.",
+            "CareerReach AI: built a local job-search agent system with Data/Communication agents, CLI tools, ChromaDB/RAG memory, and personalized outreach generation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "icon": "",
+      "rows": [
+        {
+          "type": "tags",
+          "tags": [
+            "AI Product",
+            "Dify",
+            "RAG",
+            "ChromaDB",
+            "LangGraph",
+            "MCP",
+            "CLI",
+            "Prompt Engineering"
+          ]
+        }
+      ]
+    }
+  ],
+  "avatar": "",
+  "created_at": "",
+  "updated_at": ""
+}
