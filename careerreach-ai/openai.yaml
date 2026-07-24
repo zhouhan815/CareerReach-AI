@@ -1,7 +1,0 @@
-interface:
-  display_name: "CareerReach AI"
-  short_description: "基于岗位、简历与 RAG 证据生成求职沟通策略并保留人工审核"
-  default_prompt: "使用 $careerreach-ai 分析示例岗位，生成有证据引用的沟通策略并停在人工审核。"
-
-policy:
-  allow_implicit_invocation: true
